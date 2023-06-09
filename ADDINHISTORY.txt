@@ -1,2 +1,3 @@
 I added a new file.
 Added some text to commit again.
+I added some text. OMG What do i do now.

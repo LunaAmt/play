@@ -1,0 +1,2 @@
+I added a new file.
+Added some text to commit again.
